@@ -72,39 +72,38 @@ https://notebooklm.google.com/notebook/a7136986-6d67-4306-9027-ff3c10786478/arti
 Com esse rico material de 31 fontes focada em idiomas, pude aprender as melhores práticas para o aprendizado de idiomas e criei meu cronograma de inglês baseado nessas informações. Pedi também para a inteligência artificial avaliar o cronograma que eu tinha feito e esse foi o resultado:
 
 - Fiz minha rotina de estudos assim:
+
 📚  MANHÃ IMERSÃO 70%: Input Comprehensible : 1 hora
-
-Apps Duolingo(revisar sessões)/Busuu/Elsa Speak/Drops/Mondly
-Assistir 10-20min algo em inglês. Breaking Bad, desenho ou vlog/Ouvir e tentar aprender uma música/Podcasts Coffee English/English in Comfort
-
-Shadowing ou simulação de conversa rápida com uma IA focada em fluência.
+- Apps Duolingo(revisar sessões)/Busuu/Elsa Speak/Drops/Mondly
+- Assistir 10-20min algo em inglês. Breaking Bad, desenho ou vlog/Ouvir e tentar aprender uma música/Podcasts Coffee English/English in Comfort
+- Shadowing ou simulação de conversa rápida com uma IA focada em fluência.
 
 📚  TARDE ESTUDO 30%: Manutenção FSRS e estudo, vídeo aula no Youtube - 15min de flashcards/ 5 min de descanso/ 20min de aula EnglishBay no Youtube.
 Sessão focada de flashcards(Anki)/Quizlet/Memhack para reter chunks e vocabulário em tempos mortos.
 
 - Resposta do Chat do NotebookLM:
   
-Sua rotina está muito bem estruturada e alinhada com as práticas de ciência cognitiva e linguística aplicada de 2026. Você seguiu o princípio de que a consistência vence a intensidade, distribuindo o aprendizado em sessões diárias que respeitam a capacidade de foco do cérebro adulto
+Sua rotina está muito bem estruturada e alinhada com as práticas de ciência cognitiva e linguística aplicada de 2026. 
+Você seguiu o princípio de que a consistência vence a intensidade, distribuindo o aprendizado em sessões diárias que respeitam a capacidade de foco do cérebro adulto
 
 Aqui está uma análise detalhada da sua rotina com base nas fontes, destacando pontos fortes e sugestões de ajuste:
+
 📚 Manhã: Imersão (70% Input)
 Sua decisão de dedicar a maior parte do tempo ao Input Compreensível é validada pela Hipótese do Input de Krashen, que afirma que a aquisição ocorre quando entendemos a mensagem
 
 Cuidado com a "Sobrecarga de Apps": Você mencionou cinco aplicativos (Duolingo, Busuu, Elsa, Drops, Mondly). As fontes sugerem que usar muitas ferramentas ao mesmo tempo pode fragmentar seu foco e criar "ruído".
 Considere focar naqueles que trazem Input Atraente (conteúdo que você realmente gosta) para manter o Filtro Afetivo baixo
 
-O Desafio do i+1: Assistir a Breaking Bad pode ser excelente, mas apenas se você já compreender entre 95% e 98% do conteúdo
-Se o nível da série for muito alto (compreensão abaixo de 80%), ela se torna apenas "ruído incompreensível" e o aprendizado cessa
+O Desafio do i+1: Assistir a Breaking Bad pode ser excelente, mas apenas se você já compreender entre 95% e 98% do conteúdo. Se o nível da série for muito alto (compreensão abaixo de 80%), ela se torna apenas "ruído incompreensível" e o aprendizado cessa
 Para o nível B1, desenhos e vlogs costumam estar mais próximos do ponto ideal de i+1
 
-Shadowing e IA: Esta é uma técnica de "poliglota" altamente eficaz para implantar a prosódia e o ritmo da língua no sistema nervoso
-O uso de IAs como Talkio ou Speak para simulação de conversa é o estado da arte para superar a "fase silenciosa" com baixo estresse
+Shadowing e IA: Esta é uma técnica de "poliglota" altamente eficaz para implantar a prosódia e o ritmo da língua no sistema nervoso. O uso de IAs como Talkio ou Speak para simulação de conversa é o estado da arte para superar a "fase silenciosa" com baixo estresse
 
 📚 Tarde: Estudo (30% Manutenção e FSRS)
+
 O uso do algoritmo FSRS em vez do antigo SM-2 é uma escolha brilhante. Ele aprende seus padrões de memória e pode reduzir sua carga de revisões em até 20-30% mantendo a mesma retenção
 
-Foco em Chunks: Ao alimentar seu Anki, as fontes recomendam fortemente evitar palavras isoladas. Foque em chunks (blocos de linguagem) e frases extraídas do seu input matinal (como as séries e podcasts)
-Isso garante que a memória esteja ancorada em uma experiência real
+Foco em Chunks: Ao alimentar seu Anki, as fontes recomendam fortemente evitar palavras isoladas. Foque em chunks (blocos de linguagem) e frases extraídas do seu input matinal (como as séries e podcasts), isso garante que a memória esteja ancorada em uma experiência real
 
 Sessões Atômicas: Seus blocos de 15 minutos de flashcards seguidos de descanso respeitam a neurobiologia da prática diária, permitindo que o hipocampo consolide as informações sem gerar burnout
 
@@ -117,3 +116,4 @@ Transição de Legendas: No nível B1, se você ainda usa legendas em português
 
 Resumo: Sua rotina transforma o aprendizado de uma tarefa escolar em um estilo de vida globalizado
 Se mantiver essa frequência (mesmo que em dias ruins reduza para 15 minutos), os resultados serão exponenciais
+
